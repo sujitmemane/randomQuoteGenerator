@@ -7,6 +7,10 @@ This is a JavaScript project that generates random quotes. It utilizes the JavaS
 
 # Installation
 To use this project, simply clone or download the repository and open the index.html file in your web browser. No additional installation steps are required.
+```
+git clone https://github.com/sujitmemane/randomQuoteGenerator.git
+
+```
 # Usage
 To generate a new quote, simply click the "Generate Quote" button
 
