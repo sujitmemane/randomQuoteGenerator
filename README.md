@@ -1,6 +1,8 @@
 # Random Quote Generator
 # Introduction
 This is a JavaScript project that generates random quotes. It utilizes the JavaScript programming language to create a dynamic and interactive user experience. The quotes are generated on-demand .
+# DEMO
+[randomQuoteGenerator](https://randomquotegeneratorrr.netlify.app/)
 # Features
 ## Generates random quotes from a library of pre-defined quotes
 ## The quote changes each time the "Generate Quote" button is clicked
